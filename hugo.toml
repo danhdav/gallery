@@ -1,8 +1,11 @@
-
 # Set the correct baseURL for production (ensure trailing slash for subfolder deploys)
 baseURL = 'https://danhdav.github.io/gallery/'
 languageCode = 'en-us'
-title = 'Dan\'s Gallery'
+title = 'Dans Gallery'
+
+# REMOVE these lines:
+# relativeURLs = true
+# canonifyURLs = true
 
 # Recommended outputs for production
 [outputs]
