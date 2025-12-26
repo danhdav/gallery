@@ -3,9 +3,9 @@ baseURL = 'https://danhdav.github.io/gallery/'
 languageCode = 'en-us'
 title = 'Dans Gallery'
 
-# REMOVE these lines:
-# relativeURLs = true
-# canonifyURLs = true
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 # Recommended outputs for production
 [outputs]
