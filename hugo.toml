@@ -1,6 +1,21 @@
-baseURL = 'https://danhdav.github.io/gallery'
+
+# Set the correct baseURL for production (ensure trailing slash for subfolder deploys)
+baseURL = 'https://danhdav.github.io/gallery/'
 languageCode = 'en-us'
-title = 'Home'
+title = 'Dan\'s Gallery'
+
+# Recommended outputs for production
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+# Params for theme and asset URLs
+[params]
+  defaultTheme = "dark"
+  description = "Welcome to my self-hosted instagram. Credits to Nico Kaiser for the theme."
+  title = "Dan's Gallery"
+  # Add more params as needed
 
 [module]
   [[module.imports]]
