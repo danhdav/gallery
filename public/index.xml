@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan&#39;s Gallery on Home</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Dan&#39;s Gallery on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basque</title>
+      <link>http://localhost:1313/basque/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/basque/</guid>
+        <media:content url="http://localhost:1313/basque/20251024_133605_hu_6002a08b585eddd1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/basque/20251024_133605_hu_6002a08b585eddd1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Colombia</title>
+      <link>http://localhost:1313/colombia/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/colombia/</guid>
+        <media:content url="http://localhost:1313/colombia/IMG_1849_hu_b5da7a7e505d9b5.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/colombia/IMG_1849_hu_b5da7a7e505d9b5.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Côte d&#39;Azur</title>
+      <link>http://localhost:1313/cotedazur/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cotedazur/</guid>
+        <media:content url="http://localhost:1313/cotedazur/20251127_130220_hu_f853e2f08c111938.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/cotedazur/20251127_130220_hu_f853e2f08c111938.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

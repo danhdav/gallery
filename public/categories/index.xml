@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Home</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antibes</title>
+      <link>http://localhost:1313/categories/antibes/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/antibes/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Bilbao</title>
+      <link>http://localhost:1313/categories/bilbao/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/bilbao/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Bogota</title>
+      <link>http://localhost:1313/categories/bogota/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/bogota/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Cartagena</title>
+      <link>http://localhost:1313/categories/cartagena/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cartagena/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Donostia-San Sebastian</title>
+      <link>http://localhost:1313/categories/donostia-san-sebastian/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/donostia-san-sebastian/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Eze</title>
+      <link>http://localhost:1313/categories/eze/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/eze/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Monaco</title>
+      <link>http://localhost:1313/categories/monaco/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/monaco/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Nice</title>
+      <link>http://localhost:1313/categories/nice/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/nice/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>
