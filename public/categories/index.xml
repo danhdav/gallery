@@ -1,1 +1,136 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Dans Gallery</title><link>https://danhdav.github.io/gallery/categories/</link><description>Recent content in Categories on Dans Gallery</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://danhdav.github.io/gallery/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Antibes</title><link>https://danhdav.github.io/gallery/categories/antibes/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://danhdav.github.io/gallery/categories/antibes/</guid><description>&lt;no value&gt;</description></item><item><title>Bilbao</title><link>https://danhdav.github.io/gallery/categories/bilbao/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://danhdav.github.io/gallery/categories/bilbao/</guid><description>&lt;no value&gt;</description></item><item><title>Bogota</title><link>https://danhdav.github.io/gallery/categories/bogota/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://danhdav.github.io/gallery/categories/bogota/</guid><description>&lt;no value&gt;</description></item><item><title>Cartagena</title><link>https://danhdav.github.io/gallery/categories/cartagena/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://danhdav.github.io/gallery/categories/cartagena/</guid><description>&lt;no value&gt;</description></item><item><title>Donostia-San Sebastian</title><link>https://danhdav.github.io/gallery/categories/donostia-san-sebastian/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://danhdav.github.io/gallery/categories/donostia-san-sebastian/</guid><description>&lt;no value&gt;</description></item><item><title>Eze</title><link>https://danhdav.github.io/gallery/categories/eze/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://danhdav.github.io/gallery/categories/eze/</guid><description>&lt;no value&gt;</description></item><item><title>Monaco</title><link>https://danhdav.github.io/gallery/categories/monaco/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://danhdav.github.io/gallery/categories/monaco/</guid><description>&lt;no value&gt;</description></item><item><title>Nice</title><link>https://danhdav.github.io/gallery/categories/nice/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://danhdav.github.io/gallery/categories/nice/</guid><description>&lt;no value&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Dans Gallery</title>
+    <link>http://localhost:1313/gallery/categories/</link>
+    <description>Recent content in Categories on Dans Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gallery/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ait Ben Haddou</title>
+      <link>http://localhost:1313/gallery/categories/ait-ben-haddou/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/ait-ben-haddou/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Cologne</title>
+      <link>http://localhost:1313/gallery/categories/cologne/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/cologne/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Duisburg</title>
+      <link>http://localhost:1313/gallery/categories/duisburg/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/duisburg/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Dunfermline</title>
+      <link>http://localhost:1313/gallery/categories/dunfermline/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/dunfermline/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Dusseldorf</title>
+      <link>http://localhost:1313/gallery/categories/dusseldorf/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/dusseldorf/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Edinburgh</title>
+      <link>http://localhost:1313/gallery/categories/edinburgh/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/edinburgh/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Essaouira</title>
+      <link>http://localhost:1313/gallery/categories/essaouira/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/essaouira/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Essen</title>
+      <link>http://localhost:1313/gallery/categories/essen/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/essen/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Frankfurt</title>
+      <link>http://localhost:1313/gallery/categories/frankfurt/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/frankfurt/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Glasgow</title>
+      <link>http://localhost:1313/gallery/categories/glasgow/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/glasgow/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Madrid</title>
+      <link>http://localhost:1313/gallery/categories/madrid/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/madrid/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Marrakesh</title>
+      <link>http://localhost:1313/gallery/categories/marrakesh/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/marrakesh/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Merzouga</title>
+      <link>http://localhost:1313/gallery/categories/merzouga/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/merzouga/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Oberwesel</title>
+      <link>http://localhost:1313/gallery/categories/oberwesel/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/oberwesel/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Ouarzazate</title>
+      <link>http://localhost:1313/gallery/categories/ouarzazate/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/ouarzazate/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Stirling</title>
+      <link>http://localhost:1313/gallery/categories/stirling/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/stirling/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Valencia</title>
+      <link>http://localhost:1313/gallery/categories/valencia/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/valencia/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Antibes</title>
+      <link>http://localhost:1313/gallery/categories/antibes/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/antibes/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Bilbao</title>
+      <link>http://localhost:1313/gallery/categories/bilbao/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/bilbao/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Bogota</title>
+      <link>http://localhost:1313/gallery/categories/bogota/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/bogota/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Cartagena</title>
+      <link>http://localhost:1313/gallery/categories/cartagena/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/cartagena/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Donostia-San Sebastian</title>
+      <link>http://localhost:1313/gallery/categories/donostia-san-sebastian/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/donostia-san-sebastian/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Eze</title>
+      <link>http://localhost:1313/gallery/categories/eze/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/eze/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Monaco</title>
+      <link>http://localhost:1313/gallery/categories/monaco/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/monaco/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Nice</title>
+      <link>http://localhost:1313/gallery/categories/nice/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/categories/nice/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>

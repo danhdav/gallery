@@ -1,7 +1,91 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dan's Gallery on Dans Gallery</title><link>https://danhdav.github.io/gallery/</link><description>Recent content in Dan's Gallery on Dans Gallery</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://danhdav.github.io/gallery/index.xml" rel="self" type="application/rss+xml"/><item><title>Basque</title><link>https://danhdav.github.io/gallery/basque/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://danhdav.github.io/gallery/basque/</guid><media:content url="https://danhdav.github.io/gallery/basque/20251024_133605_hu_6002a08b585eddd1.jpg" type="image/jpeg"/><description>
-&lt;img src="https://danhdav.github.io/gallery/basque/20251024_133605_hu_6002a08b585eddd1.jpg" /&gt;
-&lt;p&gt;&lt;no value&gt;&lt;/p&gt;</description></item><item><title>Colombia</title><link>https://danhdav.github.io/gallery/colombia/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://danhdav.github.io/gallery/colombia/</guid><media:content url="https://danhdav.github.io/gallery/colombia/IMG_1849_hu_b5da7a7e505d9b5.png" type="image/jpeg"/><description>
-&lt;img src="https://danhdav.github.io/gallery/colombia/IMG_1849_hu_b5da7a7e505d9b5.png" /&gt;
-&lt;p&gt;&lt;no value&gt;&lt;/p&gt;</description></item><item><title>Côte d'Azur</title><link>https://danhdav.github.io/gallery/cotedazur/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://danhdav.github.io/gallery/cotedazur/</guid><media:content url="https://danhdav.github.io/gallery/cotedazur/20251127_130220_hu_f853e2f08c111938.jpg" type="image/jpeg"/><description>
-&lt;img src="https://danhdav.github.io/gallery/cotedazur/20251127_130220_hu_f853e2f08c111938.jpg" /&gt;
-&lt;p&gt;&lt;no value&gt;&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery on Dans Gallery</title>
+    <link>http://localhost:1313/gallery/</link>
+    <description>Recent content in Gallery on Dans Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Germany</title>
+      <link>http://localhost:1313/gallery/germany/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/germany/</guid>
+        <media:content url="http://localhost:1313/gallery/germany/20251222_184007_hu_72cc5f4e410196da.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/germany/20251222_184007_hu_72cc5f4e410196da.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Madrid</title>
+      <link>http://localhost:1313/gallery/spain/madrid/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/spain/madrid/</guid>
+        <media:content url="http://localhost:1313/gallery/spain/madrid/20250924_235248_hu_88dc28f78584444b.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/spain/madrid/20250924_235248_hu_88dc28f78584444b.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Morocco</title>
+      <link>http://localhost:1313/gallery/morocco/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/morocco/</guid>
+        <media:content url="http://localhost:1313/gallery/morocco/20251118_135840_hu_151a072b9e1c931d.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/morocco/20251118_135840_hu_151a072b9e1c931d.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Scotland</title>
+      <link>http://localhost:1313/gallery/scotland/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/scotland/</guid>
+        <media:content url="http://localhost:1313/gallery/scotland/20251204_132043_hu_83d11929d77ed604.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/scotland/20251204_132043_hu_83d11929d77ed604.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Valencia</title>
+      <link>http://localhost:1313/gallery/spain/valencia/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/spain/valencia/</guid>
+        <media:content url="http://localhost:1313/gallery/spain/valencia/20251010_182245_hu_dcf7787413d8b458.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/spain/valencia/20251010_182245_hu_dcf7787413d8b458.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Basque</title>
+      <link>http://localhost:1313/gallery/spain/basque/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/spain/basque/</guid>
+        <media:content url="http://localhost:1313/gallery/spain/basque/20251024_133605_hu_6002a08b585eddd1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/spain/basque/20251024_133605_hu_6002a08b585eddd1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Colombia</title>
+      <link>http://localhost:1313/gallery/colombia/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/colombia/</guid>
+        <media:content url="http://localhost:1313/gallery/colombia/IMG_1849_hu_b5da7a7e505d9b5.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/colombia/IMG_1849_hu_b5da7a7e505d9b5.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Côte d&#39;Azur</title>
+      <link>http://localhost:1313/gallery/cotedazur/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/cotedazur/</guid>
+        <media:content url="http://localhost:1313/gallery/cotedazur/20251127_130220_hu_f853e2f08c111938.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/cotedazur/20251127_130220_hu_f853e2f08c111938.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

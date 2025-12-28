@@ -1,11 +1,7 @@
 ---
 description: Welcome to my self-hosted instagram. Credits to [Nico Kaiser](https://github.com/nicokaiser/hugo-theme-gallery/tree/main) for the theme, as it is perfect for what I envisioned.
 #lastmod: 2023-07-05
-title: Dan's Gallery
-resources:
-  - src: opera.jpg
-    params:
-      cover: true
+title: Gallery
 menus:
   main:
     name: Home

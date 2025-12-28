@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stirling on Dans Gallery</title>
+    <link>http://localhost:1313/gallery/categories/stirling/</link>
+    <description>Recent content in Stirling on Dans Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gallery/categories/stirling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scotland</title>
+      <link>http://localhost:1313/gallery/scotland/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/scotland/</guid>
+        <media:content url="http://localhost:1313/gallery/scotland/20251204_132043_hu_83d11929d77ed604.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/scotland/20251204_132043_hu_83d11929d77ed604.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

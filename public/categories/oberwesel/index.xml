@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oberwesel on Dans Gallery</title>
+    <link>http://localhost:1313/gallery/categories/oberwesel/</link>
+    <description>Recent content in Oberwesel on Dans Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gallery/categories/oberwesel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Germany</title>
+      <link>http://localhost:1313/gallery/germany/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/germany/</guid>
+        <media:content url="http://localhost:1313/gallery/germany/20251222_184007_hu_72cc5f4e410196da.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/germany/20251222_184007_hu_72cc5f4e410196da.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

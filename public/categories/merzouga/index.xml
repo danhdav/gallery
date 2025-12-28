@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Merzouga on Dans Gallery</title>
+    <link>http://localhost:1313/gallery/categories/merzouga/</link>
+    <description>Recent content in Merzouga on Dans Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gallery/categories/merzouga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Morocco</title>
+      <link>http://localhost:1313/gallery/morocco/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/morocco/</guid>
+        <media:content url="http://localhost:1313/gallery/morocco/20251118_135840_hu_151a072b9e1c931d.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/morocco/20251118_135840_hu_151a072b9e1c931d.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
